@@ -13,6 +13,7 @@ interface FoodProps {
   id: number;
   image: string;
   price: string;
+  name: string;
 }
 
 function Dashboard() {
